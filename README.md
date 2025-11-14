@@ -14,8 +14,16 @@ This is a store rating app, designed to provide users with a seamless and effici
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<li>React.js</li>
 <li>Bootstrap</li>
 <li>Material UI</li>
+
+<h3>Backend</h3>
+<li>Node.js</li>
+<li>Express.js</li>
+
+<h3>Database</h3>
+<li>MySQL</li>
 
 <h3>Development Tools</h3>
 <li>Visual Studio Code</li>
